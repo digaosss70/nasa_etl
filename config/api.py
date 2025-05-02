@@ -1,0 +1,3 @@
+DIAS_PARA_EXTRAIR = 2
+#ROVER_PARA_EXTRAIR = 'Perseverance'
+ROVER_PARA_EXTRAIR = 'curiosity'
